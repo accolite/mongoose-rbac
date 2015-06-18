@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-acl",
-  "description": "Role-based access control for mongoose apps.",
+  "name": "mongoose-rsbsc",
+  "description": "Role and Scope based access control for mongoose apps.",
   "version": "0.1.3",
   "author": "Accolite Innovations <innovations@accolite.com>",
   "main": "lib/index.js",
